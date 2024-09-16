@@ -2,9 +2,19 @@ h1 {
 	font-family: 'druk wide cyr';
 	font-weight: 900;
 	font-size: 25pt;
+	margin: 10px 10px 5px 5px;
+	padding: 0px;
 }
 
 img {
 	width: 500px;
 	box-sizing: border-box;
+}
+
+p {
+	font-family: 'favorit pro';
+	font-weight: 900;
+	font-size: 11pt;
+	margin: 0px;
+	padding: 0px;
 }
