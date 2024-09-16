@@ -1,0 +1,10 @@
+h1 {
+	font-family: druk wide cyr;
+	font-weight: 900;
+	font-size: 25pt;
+}
+
+img {
+	width: 500px;
+	box-sizing: border-box;
+}
